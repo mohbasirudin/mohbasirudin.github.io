@@ -1,6 +1,6 @@
 {
-  "name": "Taxi App",
-  "short_name": "TaxiApp",
+  "name": "SpeedyTaxi",
+  "short_name": "SpeedyTaxi",
   "start_url": ".",
   "display": "standalone",
   "background_color": "#FFFFFF",
